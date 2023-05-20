@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tourwebsite/static/css/main.37a8f4ae.css",
+    "main.js": "/tourwebsite/static/js/main.0a5687cd.js",
+    "static/media/3.jpg": "/tourwebsite/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/tourwebsite/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/tourwebsite/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/8.jpg": "/tourwebsite/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/5.jpg": "/tourwebsite/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/tourwebsite/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/night.jpg": "/tourwebsite/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/tourwebsite/index.html",
+    "main.37a8f4ae.css.map": "/tourwebsite/static/css/main.37a8f4ae.css.map",
+    "main.0a5687cd.js.map": "/tourwebsite/static/js/main.0a5687cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37a8f4ae.css",
+    "static/js/main.0a5687cd.js"
+  ]
+}
